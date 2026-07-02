@@ -2,7 +2,7 @@
 
 Python-based analysis of 911 emergency call data using machine learning, anomaly detection, clustering, and geospatial visualization.
 
-**Feature:s**
+**Features:**
 - Exploratory Data Analysis
 - Emergency Type Prediction
 - ZIP Code Clustering
